@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 112">
+<path d="M50 4 91 20 86 66Q78 91 50 106 22 91 14 66L9 20Z" fill="#087f73" stroke="#0b3c3a" stroke-width="4"/>
+<path d="M50 13 81 25 77 64Q70 82 50 94 30 82 23 64L19 25Z" fill="#f7fbf9" stroke="#e0c75a" stroke-width="2"/>
+<path d="M50 22 72 31 69 61Q63 75 50 83 37 75 31 61L28 31Z" fill="#087f73"/>
+<text x="50" y="56" text-anchor="middle" font-family="Georgia,serif" font-size="20" font-weight="bold" fill="#fff">UCS</text>
+<path d="M38 65 47 73 64 51" fill="none" stroke="#e6d66c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
